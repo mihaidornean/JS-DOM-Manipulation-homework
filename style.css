@@ -1,0 +1,22 @@
+.center-content {
+    min-height: 100vh;
+}
+.content {
+    border: 1px solid #222;
+}
+.alert-message {
+    color: red;
+    font-size: 12px;
+    visibility: hidden;
+}
+.error-box {
+    border: 1px solid red;
+}
+.success {
+    display: none;
+}
+.image  {
+    height: 100%;
+    width: 100%;
+    margin-bottom: -10%;
+}
